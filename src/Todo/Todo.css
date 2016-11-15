@@ -1,0 +1,8 @@
+.Todo-item {
+  list-style: none;
+}
+
+.Todo-task {
+  padding: 5px;
+  cursor: pointer;
+}
